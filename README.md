@@ -10,6 +10,8 @@ Steps to run.
     http://localhost:8080/api/swagger-ui.html
 6. Use postman to evaluate REST endpoints.
 7. Data to be posted should be of following format.
+
+
 {    
         "city": "chicago",
         "description": "Sunny",
@@ -18,7 +20,6 @@ Steps to run.
         "temperature": "35",
         "timestamp": "2017-05-14T09:48:04.000Z",
         "wind": {
-           
             "speed": "100",
             "degree": "10"
         }
